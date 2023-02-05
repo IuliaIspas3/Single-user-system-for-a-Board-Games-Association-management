@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a8055b1-7ff6-43bd-a90b-87ca6c5919d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/model/BoardGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/model/BoardGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/model/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/model/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/model/UpcomingBoardGamesList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/model/UpcomingBoardGamesList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBoardGameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageBorrowingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEvents.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEvents.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageEventsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageStudentsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageStudentsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageUpcomingBoardGamesController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageUpcomingBoardGamesController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageUpcomingBoardGamesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ManageUpcomingBoardGamesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VIA Board Games/view/ViewHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VIA Board Games/view/ViewHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/BoardGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/BoardGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/ModelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ModelManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/UpcomingBoardGamesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/UpcomingBoardGamesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ManageBoardGameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ManageBoardGameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ManageBorrowingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ManageBorrowingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ManageEvents.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ManageEvents.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ManageEventsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ManageEventsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ManageStudentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ManageStudentsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ManageUpcomingBoardGamesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ManageUpcomingBoardGamesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/TestGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/TestGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/VIABoardGamesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/VIABoardGamesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ViewHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ViewHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LJgye9UHYrDwcEZPujv93Yr3Bh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/domin/OneDrive/Pulpit/SEP1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a8055b1-7ff6-43bd-a90b-87ca6c5919d2" name="Changes" comment="" />
+      <created>1675594858170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675594858170</updated>
+    </task>
+    <servers />
+  </component>
+</project>
